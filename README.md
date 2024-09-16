@@ -6,3 +6,6 @@ https://stackoverflow.blog/2023/12/29/the-hardest-part-of-building-software-is-n
 
 # Article Summary
 The article claims that the most challenging aspect of software development is not the coding itself, but rather defining and managing requirements. These requirements are vital because they guide the development process and ensure that the final product meets users' needs. Poorly defined requirements can lead to significant issues like scope creep, wasted resources, and overall poor products. Additionally, it underscores the importance of effective communication and collaboration between stakeholders and developers to define requirements. Agile methods are recommended for managing evolving requirements, so that user needs and project goals can stay the focal point. The article also warns against using AI too much in the development process.
+
+#Comment by Chelsea-Hodgson 
+The customer service aspect of software development does seem to be important especially if you're working more client side, thankful i've learned about this anecdote before I make the same mistake and try trusting a customer's arrogancy blindly (here just deciding something will never happen when giving everyone the option to do exactly that.)
